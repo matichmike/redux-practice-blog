@@ -1,5 +1,6 @@
 # Redux sample blog
 Small Redux introduction app using Redux-Thunk, Lodash and JSONplaceholder online REST API
+
 The app is deployed at Netlify, please click [HERE](https://distracted-villani-790cbd.netlify.app)
 
 ## Preview
