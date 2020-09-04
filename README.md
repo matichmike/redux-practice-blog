@@ -1,3 +1,12 @@
+# Redux sample blog
+Small Redux introduction app using Redux-Thunk, Lodash and JSONplaceholder online REST API
+The app is deployed at Netlify, please click [HERE](https://distracted-villani-790cbd.netlify.app)
+
+## Preview
+![“Sample Selection”](https://github.com/matichmike/redux-practice-blog/blob/master/screenshots/blog.png?raw=true)
+<br/>
+<br/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
